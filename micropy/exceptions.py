@@ -1,0 +1,2 @@
+class MicropyUnRecognizeExceptions(BaseException):
+    pass
