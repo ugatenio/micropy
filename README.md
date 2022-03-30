@@ -3,7 +3,7 @@
 `micropy` is a python packeage for creating and accessing micro service.
 
 ## Status:
-`prod-not-ready`
+`poc`
 
 ## Features:
 - RPC
