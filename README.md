@@ -1,6 +1,6 @@
 # micropy
 ## Description:
-`micropy` is a python packeage for creating and accessing micro service.
+`micropy` is a python packeage for creating and accessing micro services.
 
 ## Status:
 `poc`
